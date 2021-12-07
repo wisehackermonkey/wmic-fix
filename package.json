@@ -1,0 +1,17 @@
+{
+  "name": "program",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wbem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "pkg": {
+    "scripts": "build/**/*.js",
+    "assets": "views/**/*",
+    "targets": [ "node14-linux-arm64" ],
+    "outputPath": "dist"
+  }
+}
