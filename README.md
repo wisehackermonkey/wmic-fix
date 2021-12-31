@@ -1,5 +1,5 @@
 # wmic-fix
-### last Update 20211230
+### Updated 20211230
 
 ```bash
 npm install -g pkg
